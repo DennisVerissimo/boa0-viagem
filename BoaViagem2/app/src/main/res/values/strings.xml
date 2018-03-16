@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Boa Viagem</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_auten">Usuário ou senha inválido</string>
+
+
 </resources>
